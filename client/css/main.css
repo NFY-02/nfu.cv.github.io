@@ -290,8 +290,32 @@ header.fixed #logo {
   color: #fff;
 }
 
+#portfolio {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 15%;
+  padding-left: 2%;
+}
 
+#portfolio h2 {
+  font-size: 3em;
+  font-family: "Oswald", serif;
+}
 
+#portfolio img {
+  border: 2px solid #B0C4DE;
+  padding: 1%;
+}
+
+#line hr {
+  border: none;
+  background-color: #87CEFA;
+  color: #87CEFA;
+  height: 1px;
+  weight: 90%;
+  margin-right: 5%;
+  margin-left: 5%;
+}
 
 
 
@@ -338,7 +362,6 @@ header.fixed #logo {
 
 
  #faq p {
-  font-family: Arimo, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #4a4a4a;
   font-size: 0.95em;
