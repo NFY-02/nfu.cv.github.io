@@ -321,12 +321,12 @@ header.fixed #logo {
 
 #faq {
   background-color: #f0f8ff;
-  width: 100%;
+  width: 95%;
   float: left;
   padding-top: 70px;
   padding-bottom: 70px;
   font-family: "Oswald", serif;
-  margin-left: 5%;
+  padding-left: 5%;
 }
 
 @media (min-width: 801px) {
@@ -368,3 +368,4 @@ header.fixed #logo {
   margin-bottom: 40px;
   font-family: "Oswald", serif;
 }
+////
